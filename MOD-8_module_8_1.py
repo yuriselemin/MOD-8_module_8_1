@@ -36,3 +36,6 @@ print(adding_more(True, False))
 print(adding_more(None, 'текст'))
 print(adding_more(None, 10))
 print(adding_more(None, True))
+
+
+
